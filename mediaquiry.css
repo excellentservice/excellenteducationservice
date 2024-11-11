@@ -1,0 +1,69 @@
+@media (max-width: 991px) {
+    .hamburger{
+        color: rgb(7, 175, 125);
+        font-size: 25px;
+        padding-left: 20px;
+        display: block;
+    }
+     
+    .manu{
+        display: none;
+    }
+     
+    
+
+    .gallary-image{
+        flex-wrap: wrap;
+    }
+    .load-more-courses{
+        margin-left: 30%; 
+    }
+    .leran-grow{
+        flex-wrap: wrap;
+        justify-content: center;  
+    }
+    .rate-us{
+        flex-wrap: wrap; 
+    }
+}
+
+
+  @media (max-width: 861px){
+    .gallar-1{
+        flex-wrap: wrap; 
+    }
+    .intro{
+        width:50%;
+    }
+
+    .gallary-image{
+        flex-wrap: wrap;
+    }
+    .load-more-courses{
+        margin-left: 30%; 
+    }
+    .leran-grow{
+        flex-wrap: wrap;
+        justify-content: center;  
+    }
+    .rate-us{
+        flex-wrap: wrap; 
+    }
+    .our-instructor{
+        flex-wrap: wrap;
+        
+    }
+    .discover-your-gain{
+        flex-wrap: wrap;
+        margin-top: 30px;
+    }
+     .gallry-for-post{
+        flex-wrap: wrap; 
+     }
+     .newsletter{
+        flex-wrap: wrap; 
+     }
+     .footer{
+        flex-wrap: wrap; 
+     }
+  }
